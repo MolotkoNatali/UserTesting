@@ -1,0 +1,23 @@
+Test case for link "JIRA" on the site User Testing
+
+
+id
+A238.cb-3
+
+
+Summary
+Check the work of link "JIRA" on the site User Testing
+
+
+Precondition  
+The site User Testing opens on the main page and the link "JIRA"  is on the right side
+
+
+1) Open the site User Testing
+2) Check whether link "JIRA"  is enabled or not
+3) Press the link "JIRA" to check how it works
+4) Check the link follows the page that has actual information about JIRA
+
+
+Expected result
+Link "JIRA" works correctly on the site User Testing

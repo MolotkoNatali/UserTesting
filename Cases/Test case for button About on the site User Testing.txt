@@ -1,0 +1,24 @@
+Test case for button "About" on the site User Testing
+
+
+id
+A238.cb-2
+
+
+Summary
+Check the work of button "About" on the site User Testing
+
+
+Precondition  
+The site User Testing opens on the main page and the button "About" is on the right corner
+
+
+Steps to reproduce
+1) Open the site User Testing
+2) Check whether Button "About" is enabled or not
+3) Press the Button "About" to check how it works
+4) Check the link follows the page that has actual information about the company
+
+
+Expected result
+Button "About" works correctly on the site User Testing
